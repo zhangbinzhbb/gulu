@@ -1,0 +1,19 @@
+{
+  "name": "gulu-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangbinzhbb/gulu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangbinzhbb/gulu/issues"
+  },
+  "homepage": "https://github.com/zhangbinzhbb/gulu#readme"
+}
